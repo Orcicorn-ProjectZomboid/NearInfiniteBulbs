@@ -8,5 +8,9 @@ description=
 description=NOTE: The primary purpose here is to provide longer lasting lights for your house/base, however it will affect lights in cars as well.  Existing "[i]in-use[/i]" lights will need to be picked up and placed back in to their devices to get the new values.  Cars will still show as 100% once installed but should have the 2 billion percent values.
 description=
 description=All light bulbs ([i]plain and colored[/i]) are configured with this new value of 2,000,000,000 max condition.
+description=
+description=[quote][b]Tested and still working in 41.66[/b][/quote]
+description=
+description=Source: [url=https://github.com/Orcicorn-ProjectZomboid/NearInfiniteBulbs]Github[/url]
 tags=Build 41;Building;Items
 visibility=public
