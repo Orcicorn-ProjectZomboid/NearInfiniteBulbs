@@ -9,7 +9,7 @@ description=NOTE: The primary purpose here is to provide longer lasting lights f
 description=
 description=All light bulbs ([i]plain and colored[/i]) are configured with this new value of 2,000,000,000 max condition.
 description=
-description=[quote][b]Tested and still working in 41.66[/b][/quote]
+description=[quote][b]Tested and still working in 41.68[/b][/quote]
 description=
 description=Source: [url=https://github.com/Orcicorn-ProjectZomboid/NearInfiniteBulbs]Github[/url]
 tags=Build 41;Building;Items
