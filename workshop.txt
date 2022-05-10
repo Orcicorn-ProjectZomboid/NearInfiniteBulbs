@@ -16,5 +16,8 @@ description=Tested and working in 41.68 Co-op Multiplayer
 description=[/quote]
 description=
 description=Source: [url=https://github.com/Orcicorn-ProjectZomboid/NearInfiniteBulbs]Github[/url]
+description=
+description=[h1]Like what I'm doing?[/h1]
+description=[img]https://i.imgur.com/FTz9Qz9.gif[/img] [url=https://ko-fi.com/orcicorn][img]https://i.imgur.com/JiMht5i.png[/img][/url]
 tags=Build 41;Building;Items
 visibility=public
